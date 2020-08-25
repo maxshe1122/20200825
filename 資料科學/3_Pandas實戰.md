@@ -228,3 +228,5 @@ grouped = df['data1'].groupby(df['key1'])
 grouped
 grouped.mean()
 ```
+
+
